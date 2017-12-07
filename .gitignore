@@ -8,7 +8,4 @@ storage
 /*.iml
 *.ipr
 *.iws
-.nyc_output
-coverage
-imagedir
 *.log
